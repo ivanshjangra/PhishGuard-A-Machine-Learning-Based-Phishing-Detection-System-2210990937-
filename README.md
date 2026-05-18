@@ -200,9 +200,12 @@ The integration of SHAP explainability and SOC-oriented deployment concepts stre
 # Author
 
 **Vansh Jangra**
-*Cybersecurity Research Project
-*Department of Computer Science and Engineering
-*Chitkara University
+
+Cybersecurity Research Project
+
+Department of Computer Science and Engineering
+
+Chitkara University
 
 ---
 
